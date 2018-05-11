@@ -1,0 +1,40 @@
+function displayPosition()
+var name = "jameisha watkins";
+var uppercase = name.toUpperCase()
+console.log('Name:', uppercase);
+console.log('Career:Full Stack Developer')
+console.log('Description: I love cars!')
+
+console.log('My Interests:')
+console.log('   HGTV');
+console.log('   Traveling');
+console.log('   Hiking');
+console.log('   Fashion');
+
+console.log('Previous Experience:')
+console.log('   Credit Card Phone Banker at Wells Fargo - servicing clients credit needs.');
+console.log('   Temporary Assistant at Walter Harris Tree Service - file paperwork, write receipts, scout new tree jobs.');
+console.log('   Insurance Agent at Young America Insurance - scouting potential clients, conducting claims, marketing, filing paperwork.');
+
+
+console.log('My Skills:')
+console.log('   Spanish');
+console.log('   JavaScript');
+console.log('   HTML');
+console.log('   CSS');
+console.log('   Marketing');
+console.log('   BAM: Percussion');
+console.log('   BAM: Tree Climbing');
+
+
+
+
+
+
+
+
+
+
+
+
+
